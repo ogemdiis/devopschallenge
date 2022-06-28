@@ -7,6 +7,8 @@ To enable a fast deployment process, AWS resources will be provisioned using Ter
 - Intenet gateway
 - Nat Gateway
 - Ec2 Instances
+- S3 Bucket ( remote state file )
+- DynamoDB lock
 
 
 # How to use ths project
