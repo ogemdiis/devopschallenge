@@ -15,14 +15,13 @@ To enable a fast deployment process, AWS resources will be provisioned using Ter
 - Terraform installed
 - AWS CLI configured
 
-### STEP 1: clone the project
-- git clone https://github.com/aajibad1/SofterWare-DevOps-Challenge.git
 
-### STEP 2: Initiate terrform
+
+### STEP 1: Initiate terrform
 - cd to Project 
 - terrform init
 
-### STEP 3: Create Resources 
+### STEP 2: Create Resources 
 - terraform plan 
 - terrfaorm apply --auto-approve
 
